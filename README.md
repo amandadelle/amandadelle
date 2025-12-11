@@ -27,4 +27,4 @@ in machine learning, numerical methods and optimization.
 
 ## 📫 How to reach me
 - Email: amanda.delle@gmail.com
-- LinkedIn: [Link to my profile]([https://www.linkedin.com/...](https://www.linkedin.com/in/amandadelle/))
+- LinkedIn: [Link to my profile](https://www.linkedin.com/in/amandadelle/)
