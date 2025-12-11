@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Amanda 👋
 
-<!--
-**amandadelle/amandadelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in Applied & Computational Mathematics at KTH, 
+specializing in Mathematics of Data Science. I enjoy working on problems
+in machine learning, numerical methods and optimization.
 
-Here are some ideas to get you started:
+## 🔭 What I work on
+- Gaussian process models for classification
+- Numerical linear algebra and matrix computations
+- Random walk simulations and stochastic processes
+- Optimization and decision models (e.g. spare part allocation, EBO)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech & tools
+- Python (NumPy, pandas, SciPy, matplotlib, scikit-learn)
+- MATLAB, LaTeX
+- Version control with Git & GitHub
+
+## 📂 Selected projects
+- **Gaussian Process Classification of Handwritten Digits** – Binary classifier using Gaussian Processes in scikit-learn, exploring uncertainty and decision boundaries.
+- **Random Walk Simulation & RMS Analysis** – 3D random walk simulator with self-avoiding constraints and RMS end-to-end distance analysis.
+- **Spare Part Allocation Optimization** – Dynamic programming and heuristic optimization to minimize Expected Backorder under budget constraints.
+
+## 🌱 Currently learning
+- More advanced probabilistic models
+- Practical ML workflows for real-world data
+- Regression analysis
+
+## 📫 How to reach me
+- Email: amanda.delle@gmail.com
+- LinkedIn: [Link to my profile](https://www.linkedin.com/...)
